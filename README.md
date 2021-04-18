@@ -1,16 +1,7 @@
-<!-- PROJECT SHIELDS -->
-[![Xcode][xcode-shield]][xcode-url]
-[![Swift][swift-shield]][swift-url]
-
-<!-- PROJECT LOGO -->
-<br />
-<p>
-
-  <p align="center">
+<p align="center">
     This is the source code for <i>Todo</i>, the sample app accompanying my blog post "Replicating the iOS Reminders App Using SwiftUI and Firebase"
   </p>
-</p>
-
+  
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
